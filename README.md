@@ -7,4 +7,4 @@ In this challenge we will use various techniques to train and evaluate a model b
  - To run: Clone repo and run Starter_Code.ipynb in jupyter notebook.
 
 
-This challenge was done with the guidance of Caddem-M
+This challenge was done with the guidance of Cadeem-M
